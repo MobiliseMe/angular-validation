@@ -20,20 +20,20 @@
 
                 var defaultMsg = {
                     required: {
-                        error: 'This should be Required!!',
-                        success: 'It\'s Required'
+                        error: 'This should be a required field!!',
+                        success: 'It\'s a required field'
                     },
                     url: {
-                        error: 'This should be Url',
-                        success: 'It\'s Url'
+                        error: 'This should be a URL',
+                        success: 'It\'s a URL'
                     },
                     email: {
-                        error: 'This should be Email',
-                        success: 'It\'s Email'
+                        error: 'This should be an email address',
+                        success: 'It\'s an email address'
                     },
                     number: {
-                        error: 'This should be Number',
-                        success: 'It\'s Number'
+                        error: 'This should be a number',
+                        success: 'It\'s a number'
                     },
                     minlength: {
                         error: 'This should be longer',
